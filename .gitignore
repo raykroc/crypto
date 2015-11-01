@@ -13,3 +13,11 @@ hs_err_pid*
 Crypto1/.classpath
 Crypto1/.project
 Crypto1/.settings/org.eclipse.jdt.core.prefs
+*.cproject
+*.project
+Crypto2/MusicPlayer/.settings/language.settings.xml
+*.mk
+*.d
+*.o
+*.mp3
+Crypto2/MusicPlayer/Debug/makefile
