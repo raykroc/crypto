@@ -10,9 +10,9 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-Crypto1/.classpath
-Crypto1/.project
-Crypto1/.settings/org.eclipse.jdt.core.prefs
+*.classpath
+*.project
+*.settings/
 *.cproject
 *.project
 Crypto2/MusicPlayer/.settings/language.settings.xml
